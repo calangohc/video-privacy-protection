@@ -6,9 +6,16 @@ Durante o evento [Calango Livre - O que não aprendemos com Snowden](http://cala
 
 Este repositório se destina à criação de uma solução para este problema na forma de scripts Python que possam ser executados dentro do Blender e possibilitem a remoção de uma pessoa do vídeo.
 
+## Sobre a licença
+
+[Blender utiliza uma licença GPL](http://www.blender.org/about/license/) e como o código criado aqui deverá ser utilizado dentro do Blender, faz sentido que ele use uma licença compatível. Escolhemos a licença GPL3.
 ----
 English:
 
 Hides people in videos they don't want to be in (work in progress)
 
 The intention is to create Python scripts to be run from within Blender to mask out faces of people who don't want to be in the video.
+
+## About the license
+
+[Blender is released under GPL](http://www.blender.org/about/license/), so it makes sense to be compatible. We chose GPL3.
